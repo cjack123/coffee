@@ -7,9 +7,13 @@ h1 {
   border: 2px dotted crimson;
   padding: 1em;
   text-align: center;
+  /*margin-left: 10%*/
 }
+
 .list {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  
+
 }
